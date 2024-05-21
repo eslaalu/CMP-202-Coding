@@ -1,5 +1,5 @@
 public class User {
-    String username = "marvelous";
+    String username = "calvin";
     String password = "Pass";
     String login() {
         if (username.equals("calvin") && password.equals("Pass")) {
